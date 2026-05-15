@@ -1,0 +1,5 @@
+print("Hello World!")
+print("Name:- Donga Tirth")
+print("Course:- Data Analysis")
+print("Institute:- Red and White")
+print("Time:- 5:00 PM")
