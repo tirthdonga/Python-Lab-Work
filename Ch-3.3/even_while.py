@@ -1,6 +1,5 @@
-a = 1
+a = 2
 
 while a <= 50:
-  if a % 2 == 0:
-    print(a, end=" ")
-  a += 1
+  print(a, end=(" "))
+  a += 2
