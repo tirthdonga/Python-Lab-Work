@@ -1,0 +1,10 @@
+fruits = ["Apple", "Pineapple", "Kiwi", "Dragon Fruit", "Orange"]
+print(f"Orignal: {fruits}")
+fruits.append("Mango")
+print(f"Append Mango: {fruits}")
+fruits.remove(fruits[0])
+print(f"Remove First Element: {fruits}")
+fruits.sort()
+print(f"After Sort: {fruits}")
+fruits.reverse()
+print(f"Reverse: {fruits}")
